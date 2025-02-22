@@ -1,0 +1,27 @@
+a:link, a:visited { color: lightskyblue; 
+					text-decoration: none; }
+
+a:hover { text-decoration: underline;
+		  color:antiquewhite;}
+
+a:active { color: lightskyblue; }
+
+body {background-color:floralwhite;
+text-align:center;
+outline-style: groove;}
+
+ul {list-style-position: inside;
+list-style-image: url(bowbullet.png)}
+
+h2, h3 {color:darkslategray;
+font-family: Helvetica, Arial, serif;
+font-size: 30px}
+
+h2 {background-color: white; 
+    opacity: 0.6;}
+
+#experience {background-color: #d7d0a9;
+opacity: 0.4;
+background-size: 10px 10px;
+background-image: repeating-linear-gradient(45deg, #f1e8cc 0, #f1e8cc 1px, #d7d0a9 0, #d7d0a9 50%);}
+
